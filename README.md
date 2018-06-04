@@ -1,2 +1,2 @@
-# JsStarterKit
-Java script Starter Kit
+# javascript-starter-kit
+JavaScript Starter Kit
